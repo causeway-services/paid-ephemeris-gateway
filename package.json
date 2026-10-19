@@ -33,5 +33,9 @@
     "x402",
     "ephemeris",
     "sovereign-state-enterprise"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/paid-ephemeris-gateway.git"
+  }
 }
